@@ -20,7 +20,7 @@ function loadRecommendations(contentData) {
 
     displayRecommendations(recommendations);
 }
-
+//credit-"https://s.id/Developed_by_VWS-CODES"
 function generateRecommendations(contentData, clicks) {
     const labelCounts = {};
     const userInterests = new Set();
